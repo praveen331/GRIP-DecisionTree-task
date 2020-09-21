@@ -2,4 +2,4 @@
 # Rahul Reddy
 
 Hi everyone this project is a task of my GRIP internship.
-This is Supervised machine learning code written in python.
+This project is based Supervised machine learning code written in python.
